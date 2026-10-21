@@ -1,2 +1,2 @@
 # gsgjsilooj
-traning github flow
+GitHub Flow training.
